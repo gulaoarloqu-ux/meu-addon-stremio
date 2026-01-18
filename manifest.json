@@ -1,7 +1,7 @@
 {
   "id": "org.gustavo.minhalista",
   "version": "1.0.0",
-  "name": "Minha Lista Pessoal",
+  "name": "GUSTAVO",
   "description": "Minha lista privada de filmes legais",
   "resources": ["stream"],
   "types": ["movie"],

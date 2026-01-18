@@ -1,14 +1,14 @@
 {
   "streams": [
     {
-      "title": "0111",
+      "title": "gutavo",
       "infoHash": "magnet:?xt=urn:btih:ba6899d4722a58f264f19f6d32d0a79c10932fbd&dn=HIDRATORRENTS.ORG..MKV.Voc%C3%AA.S%C3%B3.Precisa.de.Sangue.2023.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
       "fileIdx": 0
     }
-   { 
+    } 
   "title": "f1"
   "infoHash": "magnet:?xt=urn:btih:d028da4924adab81e5be999b4ed5c60347311a8b&dn=HIDRATORRENTS.ORG.-MAGNET-LINK.MKV.F1.O.Filme.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
   "fileIdx": 0
-}
+   }
   ]
 }
